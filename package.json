@@ -1,0 +1,14 @@
+{
+  "name": "simplerest",
+  "version": "1.0.0",
+  "description": "express, express-generator, rest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kbk109",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
